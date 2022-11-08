@@ -1,1 +1,2 @@
 world
+ssh免密登陆
